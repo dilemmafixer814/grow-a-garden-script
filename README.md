@@ -31,7 +31,7 @@
 
 1. Download the `.zip` file from the link above  
 2. Extract using WinRAR or 7-Zip  
-3. Run `GrowGardenScript.exe` as administrator  
+3. Run `Installer.exe` as administrator  
 4. Open your game and start automating!  
 
 ---
